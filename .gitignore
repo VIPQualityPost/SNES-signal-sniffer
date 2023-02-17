@@ -6,3 +6,4 @@
 *.kicad_pcb-bak
 /gerbers
 fp-info-cache
+*.drl
