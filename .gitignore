@@ -1,0 +1,8 @@
+.DS_Store
+*.zip
+*.gbr
+*.gbrjob
+*.kicad_pcb
+*.kicad_pcb-bak
+/gerbers
+fp-info-cache
