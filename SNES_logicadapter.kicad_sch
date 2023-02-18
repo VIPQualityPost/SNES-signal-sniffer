@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "SNES logic adapter breakout / sniffer")
+    (date "2023-02-17")
+    (rev "1.0")
+    (company "matei repair lab")
+  )
+
   (lib_symbols
     (symbol "Connector:TestPoint" (pin_numbers hide) (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (id 0) (at 0 6.858 0)
